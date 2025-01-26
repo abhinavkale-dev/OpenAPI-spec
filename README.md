@@ -17,7 +17,7 @@ This project demonstrates an API built using the Hono framework, featuring autom
 	1.	Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/abhinavkale-dev/OpenAPI-spec.git
 cd OpenAPI-spec
 ```
 
