@@ -14,7 +14,7 @@ This project demonstrates an API built using the Hono framework, featuring autom
 ### Installation and Usage :
 
 #### Steps to Run
-	1.	Clone the repository:
+1.	Clone the repository:
 
 ```bash
 git clone https://github.com/abhinavkale-dev/OpenAPI-spec.git
@@ -22,23 +22,25 @@ cd OpenAPI-spec
 ```
 
 
-	2.	Install dependencies:
+2.	Install dependencies:
 
 ```bash
 npm install
 ```
 
 
-	3.	Start the server:
+3.	Start the server:
 
 ```bash
 npm start
 ```
 
 
-	4.	Access the API documentation in your browser:
-	•	Swagger UI: http://localhost:8787/ui
-	•	OpenAPI JSON: http://localhost:8787/doc
+4.	Access the API documentation in your browser:
+```bash
+•	Swagger UI: http://localhost:8787/ui
+•	OpenAPI JSON: http://localhost:8787/doc
+```
 
 #### API Endpoints : 
 
